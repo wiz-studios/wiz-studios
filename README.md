@@ -1,6 +1,8 @@
 # 👋 Hey, I’m @wiz-studios
 
-![Profile Photo](https://mtoysbgdmzijactnwfpt.supabase.co/storage/v1/object/public/github-readme//pfp.jpg)
+<div align="center">
+  <img src="https://mtoysbgdmzijactnwfpt.supabase.co/storage/v1/object/public/github-readme//pfp.jpg" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 
 I’m a **full-stack developer** passionate about building high-performance, scalable, and intuitive web applications. My expertise lies in **Next.js, React, Supabase, MongoDB, and Tailwind CSS**, where I architect solutions that are not only functional but also **efficient, secure, and future-proof**.
 
